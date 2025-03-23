@@ -1,5 +1,3 @@
-markdown
-Copy
 # 🐾 Kitty-Solidity-Suite 
 
 **A Purr-fect Testing Framework for Solidity Smart Contracts**
