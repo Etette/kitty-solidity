@@ -6,12 +6,13 @@
 ![Hardhat](https://img.shields.io/badge/Hardhat-2.0+-FF6947?logo=ethereum)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-Kitty-Solidity-Suite is an enterprise-grade testing framework designed to evaluate Solidity smart contracts with claw-some precision. Purr-fect for educators, hackathons, and professional developers who need to validate multiple contract submissions with detailed analytics.
+Kitty-Solidity-Suite is an enterprise-grade testing framework designed to evaluate Solidity smart contracts with 🐾 claw-some precision. 
+Purr-fect for educators, hackathons and professional developers who need to validate multiple contract submissions with detailed analytics.
 
 ## 🐱 Features
 
 - **Multi-Contract Testing** - Test multiple Solidity submissions in one go
-- **Detailed Gas Analysis** - Track gas usage per function with USD estimates
+- **Detailed Gas Analysis** - Track gas usage per function
 - **Comprehensive Reports** - JSON output with execution times & error tracking
 - **Code Coverage** - Identify untested code paths with coverage reports
 - **Real-World Scenarios** - Pre-built test cases for common smart contract patterns
