@@ -1,0 +1,7 @@
+node_modules/
+dist/
+info.md
+artifacts/
+cache/
+.env
+typechain-types/
